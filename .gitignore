@@ -40,3 +40,18 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+
+#modules
+admin
+auth
+interfaces
+guards
+services
+shared
+worker
+
+
+# Ignore all routing module files
+**/*-routing.module.ts
+
